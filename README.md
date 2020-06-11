@@ -9,7 +9,7 @@
 - Paper Theme
 - Axios
 
-![](https://raw.githubusercontent.com/vedatbozkurt/Womie-React-Native-Movie-Rating/master/womie-screens.jpg.png)
+![](https://raw.githubusercontent.com/vedatbozkurt/Womie-React-Native-Movie-Rating/master/womie-screens.jpg)
 
 ### Requirements for React Native
 
